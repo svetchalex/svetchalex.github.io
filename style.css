@@ -1,8 +1,9 @@
+body{
+    background: #F0F8FF;
+}
 .wrapper{
     max-width: 700px;
     margin: 0 auto;
-
-
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
@@ -15,7 +16,6 @@
     align-items: center;
     justify-content: space-between;
     margin-bottom: 70px;
-
 }
 h2{
     background: #537aa3;
