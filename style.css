@@ -7,7 +7,7 @@ body{
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 .links{
     max-width: 700px;
@@ -15,7 +15,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 h2{
     background: #537aa3;
