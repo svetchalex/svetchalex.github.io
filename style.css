@@ -19,10 +19,5 @@
 
 }
 p{
-    width: 49%;
-}
-img{
-    max-width: 100%;
-    flex: 1 1 200px;
-    margin:0px auto;
+    width: 50%;
 }
